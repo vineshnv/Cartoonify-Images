@@ -1,2 +1,2 @@
-# cartoonify
-convert your photos into cartoons
+# Cartoonify
+-convert your photos into cartoons
